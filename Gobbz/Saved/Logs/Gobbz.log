@@ -1123,3 +1123,759 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.10.28-18.44.03:823][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2025.10.28-18.44.04:070][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2025.10.28-18.44.04:096][  0]LogViewport: Scene viewport resized to 1480x1254, mode Windowed.
+[2025.10.28-18.44.23:901][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.23:931][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.28-18.44.23:935][ 68]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.003313 seconds
+[2025.10.28-18.44.23:943][ 68]LogSerialization: UsePackageTrailer: 'true'
+[2025.10.28-18.44.23:954][ 68]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.23:954][ 68]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutA27A5E774A2CB9DB920E1E8579432BA0.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.23:967][ 68]LogFileHelpers: Saving map 'Blockout' took 0.043
+[2025.10.28-18.44.23:984][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms
+[2025.10.28-18.44.23:986][ 68]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.23:986][ 68]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.24:328][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.24:359][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.24:371][106]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.24:371][106]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout596F1FE34E5282BF4C4E51854C898FC0.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.24:379][106]LogFileHelpers: Saving map 'Blockout' took 0.027
+[2025.10.28-18.44.24:396][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 150 ms)
+[2025.10.28-18.44.24:397][106]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.24:397][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.24:511][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.24:545][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.28-18.44.24:556][114]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.24:556][114]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutE618293549975FA59DFBD6AE80967FD6.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.24:564][114]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.24:577][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 216 ms)
+[2025.10.28-18.44.24:579][114]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.24:579][114]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.24:681][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.24:713][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.28-18.44.24:724][124]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.24:725][124]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout84E0C637444A1A20A3182E907F86C1C1.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.24:734][124]LogFileHelpers: Saving map 'Blockout' took 0.027
+[2025.10.28-18.44.24:746][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 281 ms)
+[2025.10.28-18.44.24:749][124]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.24:749][124]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.24:846][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.24:880][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.24:892][133]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.24:892][133]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout63496515487338C8BB51F98B10DB7E4E.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.24:900][133]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.24:913][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 348 ms)
+[2025.10.28-18.44.24:915][133]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.24:915][133]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:004][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:034][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.28-18.44.25:047][142]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:047][142]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutBAC23A5949C1060BF9B714A16065615F.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:054][142]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.25:067][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 410 ms)
+[2025.10.28-18.44.25:069][142]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:069][142]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:184][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:215][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.28-18.44.25:228][153]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:228][153]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutF3BA13334F6182F6D047BB879A08EE77.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:236][153]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.25:248][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 474 ms)
+[2025.10.28-18.44.25:250][153]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:250][153]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:350][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:382][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.10.28-18.44.25:395][162]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:396][162]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout31246B0943750F3521C2378ED90B17D0.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:404][162]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.25:417][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 542 ms)
+[2025.10.28-18.44.25:419][162]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:419][162]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:490][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:531][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.28-18.44.25:543][166]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:544][166]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout62F67B494CBF7AC8C5313592A7DCEB22.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:551][166]LogFileHelpers: Saving map 'Blockout' took 0.027
+[2025.10.28-18.44.25:562][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 614 ms)
+[2025.10.28-18.44.25:565][166]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:565][166]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:620][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:664][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.28-18.44.25:676][170]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:677][170]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout1F6C9F8D46D8F3FF5ED35FA2455CA21A.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:684][170]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.25:696][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 689 ms)
+[2025.10.28-18.44.25:698][170]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:698][170]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:765][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:798][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.10.28-18.44.25:811][176]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:811][176]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutFDDD6C384CAC67A6A086C099B76EABD5.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:820][176]LogFileHelpers: Saving map 'Blockout' took 0.027
+[2025.10.28-18.44.25:832][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 756 ms)
+[2025.10.28-18.44.25:834][176]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:834][176]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.25:922][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.25:952][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.25:965][184]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.25:965][184]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout2EFB30FE45E68EA3CC9F958576E7F545.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.25:972][184]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.25:985][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 818 ms)
+[2025.10.28-18.44.25:987][184]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.25:987][184]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:102][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.26:141][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.10.28-18.44.26:153][193]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.26:154][193]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutC8E3C48B4F1063FA3DDB88BFE5063AEA.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.26:161][193]LogFileHelpers: Saving map 'Blockout' took 0.025
+[2025.10.28-18.44.26:174][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 889 ms)
+[2025.10.28-18.44.26:176][193]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.26:176][193]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:237][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.26:274][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.10.28-18.44.26:286][198]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.26:287][198]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutA9ACB3FF42EA968EB98082B5C6C81941.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.26:294][198]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.26:309][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 961 ms)
+[2025.10.28-18.44.26:310][198]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.26:310][198]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:385][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.26:424][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.28-18.44.26:436][206]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.26:437][206]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout43402A314C7FD198AE100487224FDA56.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.26:444][206]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.26:457][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.03 sec)
+[2025.10.28-18.44.26:458][206]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.26:458][206]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:513][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.26:567][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.28-18.44.26:581][209]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.26:581][209]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout87DCF4B7487B7642D586AEB1D68FC42B.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.26:589][209]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.26:601][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.12 sec)
+[2025.10.28-18.44.26:602][209]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.26:602][209]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:687][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.26:749][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.26:762][213]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.26:762][213]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout3A5A3D7A478B57921E22A6B37C7E71E6.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.26:770][213]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.26:782][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.21 sec)
+[2025.10.28-18.44.26:785][213]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.26:785][213]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:860][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.26:895][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.28-18.44.26:908][219]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.26:908][219]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout6891FA6B4D057B0B43A38C8245BA2B41.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.26:916][219]LogFileHelpers: Saving map 'Blockout' took 0.027
+[2025.10.28-18.44.26:928][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.28 sec)
+[2025.10.28-18.44.26:930][219]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.26:930][219]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.26:985][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:030][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.27:042][223]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.27:042][223]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout0F763B3A4A435712164895B3A2B8048B.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.27:049][223]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.27:061][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.35 sec)
+[2025.10.28-18.44.27:064][223]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.27:064][223]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.27:142][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:183][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.27:195][229]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.27:195][229]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutD92676C548746AA8A7CA1CAE41866332.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.27:204][229]LogFileHelpers: Saving map 'Blockout' took 0.026
+[2025.10.28-18.44.27:215][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.43 sec)
+[2025.10.28-18.44.27:217][229]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.27:217][229]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.27:332][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:367][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.28-18.44.27:380][239]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.27:380][239]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutD40F10C942DAE3E90D4FF0B0091BD9A8.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.27:389][239]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.27:403][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.50 sec)
+[2025.10.28-18.44.27:404][239]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.27:404][239]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.27:447][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:479][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.27:491][241]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.27:491][241]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutB4A8E8544EED02EEDF9E47A9053B41AD.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.27:499][241]LogFileHelpers: Saving map 'Blockout' took 0.027
+[2025.10.28-18.44.27:513][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.57 sec)
+[2025.10.28-18.44.27:516][241]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.27:516][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.27:614][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:647][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.28-18.44.27:660][252]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.27:660][252]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/BlockoutD4BC8D154B4CCCE6349C6C9AB828C631.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.27:668][252]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.27:681][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.63 sec)
+[2025.10.28-18.44.27:683][252]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.27:683][252]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.27:783][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:827][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.10.28-18.44.27:839][263]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.27:840][263]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout56B244EA4C02F6FE635EEFBC282B501F.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.27:847][263]LogFileHelpers: Saving map 'Blockout' took 0.034
+[2025.10.28-18.44.27:860][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.71 sec)
+[2025.10.28-18.44.27:862][263]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.27:862][263]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.27:945][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-18.44.27:988][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.28-18.44.28:001][272]LogSavePackage: Moving output files for package: /Game/Levels/Blockout
+[2025.10.28-18.44.28:001][272]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Saved/Blockout0DEBB59A4504B081882F1C9FD48B5ED0.tmp' to '../../../../../../Users/user/OneDrive/Masaüstü/GitHub/GobbzOyunprojesi/Gobbz/Content/Levels/Blockout.umap'
+[2025.10.28-18.44.28:010][272]LogFileHelpers: Saving map 'Blockout' took 0.028
+[2025.10.28-18.44.28:025][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.79 sec)
+[2025.10.28-18.44.28:027][272]AssetCheck: New page: Asset Save: Blockout
+[2025.10.28-18.44.28:027][272]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Blockout.Blockout
+[2025.10.28-18.44.29:114][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.28-18.44.29:114][401]LogStall: Shutdown...
+[2025.10.28-18.44.29:120][401]LogStall: Shutdown complete.
+[2025.10.28-18.44.29:142][401]LogSlate: Window 'Gobbz - Unreal Editor' being destroyed
+[2025.10.28-18.44.29:143][401]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2025.10.28-18.44.29:220][402]Cmd: QUIT_EDITOR
+[2025.10.28-18.44.29:220][402]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.28-18.44.29:221][402]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.28-18.44.29:221][402]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.28-18.44.29:221][402]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.28-18.44.29:222][402]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-18.44.29:222][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-18.44.29:222][402]LogWorld: UWorld::CleanupWorld for Texts, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-18.44.29:222][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-18.44.29:222][402]LogWorld: UWorld::CleanupWorld for Lights, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-18.44.29:222][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-18.44.29:222][402]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.28-18.44.29:222][402]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.28-18.44.29:370][402]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.28-18.44.29:370][402]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.28-18.44.29:370][402]LogAudio: Display: Audio Device unregistered from world 'Blockout'.
+[2025.10.28-18.44.29:370][402]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.10.28-18.44.29:370][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.28-18.44.29:371][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.28-18.44.29:378][402]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.28-18.44.29:383][402]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.28-18.44.29:383][402]LogExit: Preparing to exit.
+[2025.10.28-18.44.29:405][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.28-18.44.30:195][402]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.28-18.44.30:206][402]LogExit: Editor shut down
+[2025.10.28-18.44.30:209][402]LogExit: Transaction tracking system shut down
+[2025.10.28-18.44.30:268][402]LogExit: Object subsystem successfully closed.
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: ================================================
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: RAM used: 240,00 B of 1,60 GiB budget. Usage: 0.00%
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.10.28-18.44.30:275][402]LogShaderCompilers: Display: ================================================
+[2025.10.28-18.44.30:347][402]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.28-18.44.30:358][402]LogVirtualization: UE::Virtualization was shutdown
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1009)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AddContentDialog (1007)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1006)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1001)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module SceneOutliner (999)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module StatusBar (997)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (995)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (993)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module StatsViewer (991)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (989)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AutomationWorker (987)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (985)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (983)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (981)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (979)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WebMMedia (977)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (975)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (973)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (971)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (969)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (967)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (965)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (963)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (961)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (959)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module GooglePADEditor (957)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (955)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module WaveTableEditor (953)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (951)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (949)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (947)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module SequenceRecorder (946)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (943)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (941)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (939)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module PlanarCut (937)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module FractureEngine (935)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module CharacterAI (933)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module IKRigEditor (931)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module ControlRigEditor (929)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module TextureAlignMode (927)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module BspMode (925)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module GeometryMode (923)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (921)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module SmartSnapping (919)
+[2025.10.28-18.44.30:379][402]LogModuleManager: Shutting down and abandoning module SessionServices (917)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module MeshPaint (915)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (913)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module PlacementMode (912)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module FoliageEdit (909)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module LandscapeEditor (907)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (905)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module ActorPickerMode (903)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module ViewportSnapping (901)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module ViewportInteraction (899)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module ClothPainter (897)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (896)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module LogVisualizer (893)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (891)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (889)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (888)
+[2025.10.28-18.44.30:380][402]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (886)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (883)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (881)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (879)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (877)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (875)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (873)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module AnimationSettings (871)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (869)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module CSVtoSVG (867)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (865)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module EditorConfig (863)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module EditorFramework (861)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (859)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module TraceInsights (857)
+[2025.10.28-18.44.30:656][402]MemoryProfiler: Shutdown
+[2025.10.28-18.44.30:656][402]NetworkingProfiler: Shutdown
+[2025.10.28-18.44.30:656][402]LoadingProfiler: Shutdown
+[2025.10.28-18.44.30:656][402]TimingProfiler: Shutdown
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module TraceServices (856)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module TraceAnalysis (855)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (851)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (850)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module InputBindingEditor (847)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module MergeActors (845)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (843)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module LocalizationService (842)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module HardwareTargeting (839)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (837)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module UndoHistory (835)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module XmlParser (833)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module Blutility (831)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (829)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (828)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (825)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (824)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module SettingsEditor (821)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module ProjectLauncher (819)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module SessionFrontend (817)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module ProfilerClient (815)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module DeviceManager (813)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module AutomationController (811)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module AutomationWindow (809)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module Layers (807)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (805)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module DetailCustomizations (803)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module PackagesDialog (801)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (799)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module Persona (797)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (796)
+[2025.10.28-18.44.30:656][402]LogModuleManager: Shutting down and abandoning module Kismet (793)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module KismetWidgets (792)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module GraphEditor (789)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module StructViewer (787)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module ClassViewer (785)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module NaniteTools (783)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (781)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (779)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module SourceControlWindows (777)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module OutputLog (775)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module Documentation (773)
+[2025.10.28-18.44.30:657][402]LogModuleManager: Shutting down and abandoning module LiveCoding (771)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (769)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (767)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module MovieScene (765)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (763)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (761)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (759)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module AudioMixer (758)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module AudioMixerCore (757)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module LauncherPlatform (753)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module AnalyticsET (751)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module PortalServices (749)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module PortalRpc (747)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module MessagingRpc (745)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module AIModule (743)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module GameplayDebugger (742)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module AITestSuite (740)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module NavigationSystem (738)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module DataLayerEditor (735)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module EditorWidgets (734)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (731)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (729)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module TypedElementFramework (727)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (725)
+[2025.10.28-18.44.30:663][402]LogModuleManager: Shutting down and abandoning module ProfilerService (723)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (721)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (719)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (717)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (715)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module TakesCore (713)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (711)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (709)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module LightMixer (707)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (705)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (703)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (701)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module CollectionManager (700)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (697)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (695)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module InterchangeTests (693)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (691)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module MediaPlate (689)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module MediaCompositing (687)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ImgMedia (685)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module ChaosNiagara (681)
+[2025.10.28-18.44.30:763][402]LogModuleManager: Shutting down and abandoning module FractureEditor (679)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (677)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module TakeSequencer (675)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module TakeMovieScene (673)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AlembicImporter (671)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AlembicLibrary (670)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module VariantManager (667)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (666)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GooglePAD (663)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (661)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (659)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (657)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module UObjectPlugin (655)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (653)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (651)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module PluginUtils (649)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module DumpGPUServices (647)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GitSourceControl (645)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (643)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (641)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module SynthesisEditor (639)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ResonanceAudio (637)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (635)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (633)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (631)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ModelingOperators (629)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (627)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ModelingComponents (625)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryFramework (624)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (621)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshModelingTools (619)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (617)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InputDebugging (615)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module DynamicMesh (613)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (611)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (609)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCache (607)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (605)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (603)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (601)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AudioCapture (599)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (598)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AssetTags (595)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (593)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (591)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AppleImageUtils (589)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AndroidPermission (587)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (585)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (583)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module TemplateSequence (581)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (579)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module SequencerScripting (577)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (575)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module UVEditorTools (573)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module UVEditor (571)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module PresetAsset (569)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (567)
+[2025.10.28-18.44.30:764][402]LogOpenImageDenoise: OIDN shutting down
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (565)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (563)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (561)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (559)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshLODToolset (557)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (555)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (553)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (551)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (549)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (547)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (546)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (544)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (541)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module DataflowNodes (539)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (537)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module DataflowEditor (535)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (533)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (531)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (529)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module BackChannel (527)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (525)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AutomationUtils (523)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ControlRigSpline (521)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (519)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (517)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (515)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (513)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (511)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangePipelines (509)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeExport (507)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeMessages (505)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeImport (503)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (501)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeNodes (499)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (497)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (495)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (493)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InterchangeEditor (491)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (489)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module StylusInput (487)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (485)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (483)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module PluginBrowser (481)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (479)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (477)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (475)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GLTFImporter (473)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module GLTFCore (471)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (469)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module EditorDebugTools (467)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module CurveEditorTools (465)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (463)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module CryptoKeys (461)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ChangelistReview (459)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (457)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (455)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (453)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module Paper2DEditor (451)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (437)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module Niagara (435)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module NiagaraEditor (434)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module NiagaraCore (431)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (429)
+[2025.10.28-18.44.30:764][402]LogModuleManager: Shutting down and abandoning module UdpMessaging (427)
+[2025.10.28-18.44.30:865][402]LogModuleManager: Shutting down and abandoning module TcpMessaging (425)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (423)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (421)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AnimationSharing (419)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module GameplayCameras (417)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module Synthesis (415)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module SoundFields (413)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module SignificanceManager (411)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (409)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (407)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundEditor (405)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AudioWidgets (404)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (403)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (399)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundEngine (397)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module WaveTable (396)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (394)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (391)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (389)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (387)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (385)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (383)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (381)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module CableComponent (379)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (377)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (376)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (373)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module SignalProcessing (372)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module ActorSequence (369)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (367)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module TakeRecorder (366)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module ChaosCaching (363)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (361)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module PBIK (359)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module FullBodyIK (357)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (355)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module IKRig (353)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (351)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module ControlRig (349)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module Constraints (348)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module LevelSequence (346)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AnimationData (343)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (341)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (339)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module FacialAnimation (337)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module DataValidation (335)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (333)
+[2025.10.28-18.44.31:141][402]LogModuleManager: Shutting down and abandoning module LevelEditor (332)
+[2025.10.28-18.44.31:142][402]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (331)
+[2025.10.28-18.44.31:142][402]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (329)
+[2025.10.28-18.44.31:142][402]LogModuleManager: Shutting down and abandoning module MainFrame (327)
+[2025.10.28-18.44.31:142][402]LogModuleManager: Shutting down and abandoning module HotReload (326)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module ContentBrowser (322)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module ToolMenus (321)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module ContentBrowserData (319)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module TreeMap (316)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module Paper2D (313)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (311)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2025.10.28-18.44.31:143][402]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2025.10.28-18.44.31:144][402]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2025.10.28-18.44.31:145][402]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module Core (233)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2025.10.28-18.44.31:146][402]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2025.10.28-18.44.31:157][402]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2025.10.28-18.44.31:157][402]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2025.10.28-18.44.31:157][402]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2025.10.28-18.44.31:160][402]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (116)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module NiagaraShader (114)
+[2025.10.28-18.44.31:161][402]LogModuleManager: Shutting down and abandoning module WmfMedia (112)
+[2025.10.28-18.44.31:163][402]LogModuleManager: Shutting down and abandoning module Media (111)
+[2025.10.28-18.44.31:168][402]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (108)
+[2025.10.28-18.44.31:168][402]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2025.10.28-18.44.31:168][402]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2025.10.28-18.44.31:168][402]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2025.10.28-18.44.31:170][402]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2025.10.28-18.44.31:170][402]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2025.10.28-18.44.31:186][402]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2025.10.28-18.44.31:186][402]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.28-18.44.31:186][402]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B965440F3-4571-5E4F-9ECD-839B15233C22%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=4d8db86c4bf1fdd646c6048110437c20%7C4dcdefbfdee64c67be298cb176dc994b%7Cb7f08f04-9125-441d-a8de-c7e0bd0771a2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.10.28-18.44.31:218][402]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module VariantManagerContent (82)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module GLTFExporter (80)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module DatasmithContent (78)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (76)
+[2025.10.28-18.44.31:219][402]RenderDocPlugin: plugin has been unloaded.
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PixWinPlugin (74)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (72)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module ChunkDownloader (68)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (58)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2025.10.28-18.44.31:219][402]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.28-18.44.31:219][402]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.10.28-18.44.31:220][402]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.10.28-18.44.31:221][402]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.10.28-18.44.31:221][402]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.10.28-18.44.31:221][402]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.10.28-18.44.31:221][402]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.10.28-18.44.31:294][402]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.28-18.44.31:320][402]LogExit: Exiting.
+[2025.10.28-18.44.31:349][402]Log file closed, 10/28/25 21:44:31
